@@ -11,7 +11,3 @@
 
 - HTML
 - JavaScript
-
-## Author
-
-Ruhena Akter 
